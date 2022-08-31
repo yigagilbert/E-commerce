@@ -1,0 +1,1 @@
+class ProfileProfileInfo1Model {}
