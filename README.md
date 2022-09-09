@@ -4,12 +4,13 @@
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
   <strong>
-    Generated with ❤️ from Dhiwise
+    Generated with ❤️ from Yiga Gilbert
   </strong>
   <p>
     This is the documentation of Flutter Applications.
     It holds all the info you need to get started with
-    and make changes to your App
+    and make changes to your App.
+    I made it as a study projectas i was getting ready for my recess project.
   </p>
 </div>
 
